@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="image">Gambar Analisis</string>
+    <string name="news">Berita terbaru</string>
+    <string name="news_sub">Berita terbaru tentang kanker</string>
+    <string name="history">Riwayat</string>
+    <string name="label">Cancer</string>
+    <string name="score">57</string>
+    <string name="history_sub">Riwayat cek kanker</string>
+    <string name="tv_empty">Kamu belum pernah cek kanker nih..</string>
+    <string name="desc_news">An international research effort led by Charles Sturt University, Australia, is projecting a significant rise in global cancer cases and deaths by 2050. They identify widening disparities between low Human Development Index (HDI) and very high HDI countries, …</string>
+    <string name="title_news">Surge in global cancer by 2050 with widening disparities projected by study - Medical Xpress</string>
+    <string name="fab_analyze">Analisis Gambar</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="downloading_model_fail">Model gagal diunduh</string>
+    <string name="image_classifier_failed">Image classifier gagal inisialisasi.</string>
+    <string name="tflitevision_is_not_initialized_yet">TfLiteVision belum diinisialisasi</string>
+</resources>
